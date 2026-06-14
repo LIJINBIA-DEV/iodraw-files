@@ -37,7 +37,7 @@
         <mxCell id="grr64aGUYJDD0KbBPOWD-14" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif&quot; color=&quot;#0f1115&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;结束&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1070" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="grr64aGUYJDD0KbBPOWD-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="grr64aGUYJDD0KbBPOWD-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.462;exitY=0.958;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="grr64aGUYJDD0KbBPOWD-5" target="grr64aGUYJDD0KbBPOWD-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="690" as="sourcePoint" />
             <mxPoint x="430" y="640" as="targetPoint" />
